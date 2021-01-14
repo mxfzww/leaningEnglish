@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36f0745c-8f3d-4085-8572-078ef96dfe15" name="Default Changelist" comment="" />
-    <list id="5f3d6fbf-2920-4778-8481-bf038938c576" name="Revert &quot;重构 -- 34&quot;" comment="Revert &quot;重构 -- 34&quot;&#10;&#10;This reverts commit 66c5f5b7" />
+    <list default="true" id="36f0745c-8f3d-4085-8572-078ef96dfe15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +65,7 @@
       <workItem from="1610410259368" duration="692000" />
       <workItem from="1610620296107" duration="425000" />
       <workItem from="1610620804745" duration="697000" />
+      <workItem from="1610621510085" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;重构 -- 31&quot;&#10;&#10;This reverts commit 97a2458b">
       <created>1610620404764</created>
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610620903924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Revert &quot;重构 -- 34&quot;&#10;&#10;This reverts commit 66c5f5b7">
+      <created>1610621559261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610621559261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,13 +109,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;重构 -- 31&quot;&#10;&#10;This reverts commit 97a2458b" />
     <MESSAGE value="Revert &quot;重构 -- 33&quot;&#10;&#10;This reverts commit 1527c439" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;重构 -- 33&quot;&#10;&#10;This reverts commit 1527c439" />
+    <MESSAGE value="Revert &quot;重构 -- 34&quot;&#10;&#10;This reverts commit 66c5f5b7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;重构 -- 34&quot;&#10;&#10;This reverts commit 66c5f5b7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="0" width="831" height="900" key="CommitChangelistDialog2" timestamp="1610621045278">
+    <state x="556" y="0" width="831" height="900" key="CommitChangelistDialog2" timestamp="1610621559028">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="556" y="0" width="831" height="900" key="CommitChangelistDialog2/0.0.1440.900/-269.-1080.1920.1034@0.0.1440.900" timestamp="1610621045278" />
+    <state x="556" y="0" width="831" height="900" key="CommitChangelistDialog2/0.0.1440.900/-269.-1080.1920.1034@0.0.1440.900" timestamp="1610621559028" />
     <state x="284" y="-1004" key="CommitChangelistDialog2/0.0.1440.900/-269.-1080.1920.1080@-269.-1080.1920.1080" timestamp="1610620404643" />
     <state x="75" y="83" width="1290" height="734" key="DiffContextDialog" timestamp="1610621247672">
       <screen x="0" y="0" width="1440" height="900" />
