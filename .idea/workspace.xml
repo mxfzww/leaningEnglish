@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42416fe-93d1-471a-8936-24352cd2da23" name="Default Changelist" comment="" />
-    <list id="5048e275-893d-49ee-9422-16af12fa553e" name="Revert &quot;重构 -- 1&quot;" comment="Revert &quot;重构 -- 1&quot;&#10;&#10;This reverts commit e9be9db4">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list id="5048e275-893d-49ee-9422-16af12fa553e" name="Revert &quot;重构 -- 1&quot;" comment="Revert &quot;重构 -- 1&quot;&#10;&#10;This reverts commit e9be9db4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +51,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1610624012359">
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1610624039164">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900/-269.-1080.1920.1080@0.0.1440.900" timestamp="1610624012359" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900/-269.-1080.1920.1080@0.0.1440.900" timestamp="1610624039164" />
     <state x="144" y="76" key="MergeDialog" timestamp="1610623946392">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
