@@ -7,4 +7,5 @@ shirt 衬衣
 suit 一套衣服
 son 儿子
 daughter 女儿
-swedish 瑞典的
+swedish 瑞典
+的
